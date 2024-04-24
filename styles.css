@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: darkslategrey;
+    font-weight: normal;
+  }
+  h2, h4 {
+    color:steelblue;
+  }
+  p {
+    color:seagreen;
+    background-color: whitesmoke;
+  }
+ li {
+font-size: 14px;
+font-style: inherit;
+font-weight: normal;
+  }
+  a {
+    color: hotpink;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .bold {
+    font-weight: bold;
+  }
+.justify {
+    text-align: justify;
+}
+.homebg {
+    background-image: url('../violet.jpg');
+}
+.resumebg {
+    background-image: url('../yellow.jpeg');
+}
+.box1{
+border-width: 1px;
+border-style: solid;
+}
